@@ -1,1 +1,2 @@
 # Algorithms-in-ML
+This repository implements four fundamental machine learning algorithms for classification and regression tasks: Decision Trees use a flowchart-like structure to split data based on features, while Random Forests combine multiple trees to increase accuracy and reduce error. For proximity based learning, KNN classifies data points based on their similarity to neighboring samples. Together, these models provide a robust framework for comparing traditional tree based logic against distance-based prediction methods.
